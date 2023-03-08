@@ -1,0 +1,9 @@
+{
+    "java.project.referencedLibraries": [
+        "c:\\Users\\reyes\\Documents\\EE360T\\bcel-6.6.0\\bcel-6.6.0.jar",
+        "c:\\Users\\reyes\\Documents\\EE360T\\bcel-6.6.0\\bcel-6.6.0-javadoc.jar",
+        "c:\\Users\\reyes\\Documents\\EE360T\\bcel-6.6.0\\bcel-6.6.0-sources.jar",
+        "c:\\Users\\reyes\\Documents\\EE360T\\bcel-6.6.0\\bcel-6.6.0-tests.jar",
+        "c:\\Users\\reyes\\Documents\\EE360T\\bcel-6.6.0\\bcel-6.6.0-test-sources.jar"
+    ]
+}
